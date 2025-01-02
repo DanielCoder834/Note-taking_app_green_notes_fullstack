@@ -1,0 +1,41 @@
+.text-for-home {
+  font-size: 4.5vw;
+  text-shadow: 0.1rem 0.1rem green;
+  /* top: 33%; */
+}
+.text-for-sub-title {
+  font-size: 2.75vw;
+  text-shadow: 0.1rem 0.1rem green;
+  /* top: 45%; */
+}
+.image_home {
+  box-shadow: inset 0 0 0 100em rgba(0, 0, 0, 0.5);
+}
+
+.the-dev {
+  /* overflow: hidden; */
+  /* height: 100vh; */
+  /* background: url("../assets/home_page.jpg"); */
+}
+
+.text-for-home {
+  /* height: inherit;
+  background: inherit;
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  font: 900 35vmin/50vh cookie, cursive;
+  text-align: center; */
+  /* filter: invert(1) grayscale(1) contrast(9) drop-shadow(0.05em 0.05em orange); */
+}
+
+.text-for-sub-title {
+  /* height: inherit;
+  background: inherit;
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  font: 900 35vmin/50vh cookie, cursive;
+  text-align: center;
+  filter: invert(1) grayscale(1) contrast(9) drop-shadow(0.05em 0.05em orange); */
+}

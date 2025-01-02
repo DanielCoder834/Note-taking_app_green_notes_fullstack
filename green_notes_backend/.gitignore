@@ -1,0 +1,4 @@
+.env
+/.idea
+key.pem
+cert.pem

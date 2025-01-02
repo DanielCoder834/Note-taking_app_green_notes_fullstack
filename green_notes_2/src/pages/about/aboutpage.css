@@ -1,0 +1,34 @@
+/* // "bg-[radial-gradient(circle_at_center,_var(--tw-gradient-stops))] \
+// from-green-600 via-gray-600 to-white" */
+.about-page-background {
+  /* background: radial-gradient(
+    ellipse at center,
+    rgb(5 46 22) 0%,
+    rgb(21, 69, 41) 5%,
+    rgb(31, 72, 48) 10%,
+    rgb(33, 63, 45) 15%,
+    rgb(59, 81, 68) 25%,
+    rgb(108, 128, 116) 50%,
+    rgb(146, 162, 152) 75%,
+    rgb(185, 198, 190) 80%,
+    rgb(255 255 255) 100%
+  ); */
+  /* background-image: radial-gradient(
+    circle at center,
+    rgb(5 46 22) 95%,
+    #ffffff
+  ); */
+}
+
+/* .box {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background: var(--accent);
+  margin: 0;
+} */
+
+img.resize {
+  width:540px; /* you can use % */
+  height: auto;
+}
