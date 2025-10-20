@@ -26,6 +26,8 @@
 
 This is a project where I made a full-stack note-taking application. Currently, the project is not online as there are some security issues I would need to extensively take care of. Primarily, detering HTML injection, and XSS attacks, which I am unfamilar with at the moment. (I will to try to find a library to help with this in the future).
 
+Disclaimer: The backend requires a cert and key to be generated for it to function properly. The .env in the backennd also needs to be filled out properly as well. 
+
 ---
 
 ## Features
